@@ -1,0 +1,64 @@
+*
+{
+    font-family: 'Aboreto', cursive;
+    box-sizing: border-box;
+}
+
+header
+{
+    background-color: #2c2e31;
+}
+
+#titulo1
+{
+    text-align: center;
+    color: white;
+}
+
+#titulo2
+{
+    text-align: left;
+}
+
+#pnombre {
+    font-size: 20px;
+    color: black;
+}
+
+#papellido{
+    margin-top: 0px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    color: black;
+}
+
+#fotoCV
+{
+    width: 150px;
+    padding-top: 10px;
+    border-radius: 150px;
+}
+
+#presentacion
+{
+    background-color: burlywood;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: 300px;
+    height: 300px;
+}
+
+#infoPers
+{
+    text-align: center;
+    width: 100%;
+}
+
+#icomail, #icomail2, #icodire, #icotel, #icocumple, #icoinst
+{
+    width: 7%;
+    height: auto;
+    padding-right: 10px;
+}
